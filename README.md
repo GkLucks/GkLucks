@@ -5,7 +5,7 @@ Passando horas melhorando meu uso do GitHub, fazendo um projeto em Java na Dio, 
 <div>
   <a href="https://github.com/gklucks/github-readme-stats">
   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=gklucks&theme=transparent&show_icons=true" />
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gklucks&layout=compact" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gklucks&layout=compact&theme=transparent" />
 </div>
 
 
