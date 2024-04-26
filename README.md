@@ -1,11 +1,14 @@
 ## Lucas Silva 
 
+Passando horas melhorando meu uso do GitHub
+
 <div>
   <a href="https://github.com/gklucks/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gklucks&theme=transparent&show_icon=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gklucks&layout=compact" />
-
+  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=gklucks&theme=transparent&show_icon=true" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gklucks&layout=compact" />
 </div>
+
+##
 
  <div style="display: inline_block"><br>
   <img align="center" alt="gklucks-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
